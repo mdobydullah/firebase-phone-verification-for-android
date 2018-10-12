@@ -9,7 +9,7 @@ Download this project and remove "google-services.json" from app folder. Then ju
 These links may help you:
 1. [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup)
 2. [How to set up Firebase in your Project](http://mobiledevhub.com/2018/01/14/android-how-to-set-up-firebase-in-your-project/)
-3. [Add SHA-1 to Firebase Project](URL_to_wiki). (See verified answer)
+3. [Add SHA-1 to Firebase Project](https://stackoverflow.com/questions/39144629/how-to-add-sha-1-to-android-application). (See verified answer)
 
 __Screenshots__
 
