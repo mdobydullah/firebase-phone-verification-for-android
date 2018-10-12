@@ -1,8 +1,8 @@
-#Firebase Phone Verification for Android (Java)
+# Firebase Phone Verification for Android (Java)
 
 You can use Firebase Authentication to sign in a user by sending an SMS message to the user's phone. The user signs in using a one-time code contained in the SMS message.
 
-#Integrating with your Android app
+# Integrating with your Android app
 
 Download this project and remove "google-services.json" from app folder. Then just add Firebase to your Android Project.
 
